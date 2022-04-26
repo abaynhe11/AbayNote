@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354714612088",
+    "project_id": "abay-notes",
+    "storage_bucket": "abay-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354714612088:android:cc422ab15ab6176785988d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth.abaynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354714612088-ak7mb5pluv549pb7evcd9maku8np8m5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDud8ruKuODReBBaVUk09g_ksMXJqbTtdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354714612088-ak7mb5pluv549pb7evcd9maku8np8m5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
